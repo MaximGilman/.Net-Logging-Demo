@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracing-Logging-Demo", "Tracing-Logging-Demo\Tracing-Logging-Demo.csproj", "{5D5A00FD-8F6B-40DD-B280-F7ADBB40041B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "Logging\Logging.csproj", "{AAA38E21-0FA4-4964-96C0-C75372AA4100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5D5A00FD-8F6B-40DD-B280-F7ADBB40041B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D5A00FD-8F6B-40DD-B280-F7ADBB40041B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D5A00FD-8F6B-40DD-B280-F7ADBB40041B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA38E21-0FA4-4964-96C0-C75372AA4100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA38E21-0FA4-4964-96C0-C75372AA4100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA38E21-0FA4-4964-96C0-C75372AA4100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA38E21-0FA4-4964-96C0-C75372AA4100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
