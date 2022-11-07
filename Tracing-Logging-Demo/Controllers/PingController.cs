@@ -22,6 +22,7 @@ public class PingController : Controller
         {
             var result = 10 / i;
             EventLog.DivideNumber(_logger, result);
+            return Ok(result);
         }
         catch (Exception e)
         {
